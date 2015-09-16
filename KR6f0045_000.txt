@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 勝鬘師子吼一乘大方便方廣經
+#+DATE: 2015-08-30 20:01:50.619460
+#+PROPERTY: JUAN 0
